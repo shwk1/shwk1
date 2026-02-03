@@ -17,6 +17,6 @@ I'm a Developer, currently exploring the depths of **NixOS**.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b26" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=radical&hide_border=true&bg_color=1a1b26" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b26" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=dark&hide_border=true&bg_color=1a1b26" height="180" alt="languages graph" />
 </div>
