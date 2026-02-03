@@ -17,6 +17,7 @@ I'm a Developer based in Chile 🇨🇱, currently exploring the depths of **Nix
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=dracula&hide_border=true" alt="shwk1 github stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="180" alt="languages graph" />
+</div>
