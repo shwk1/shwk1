@@ -2,12 +2,11 @@
 
 ### Hi there 👋, I'm Shwki
 
-I'm a Developer based in Chile 🇨🇱, currently exploring the depths of **NixOS** and modern Web Development.
+I'm a Developer, currently exploring the depths of **NixOS** and modern Web Development.
 
 - 🔭 I’m currently working on my **NixOS Dotfiles**.
-- 🌱 I’m currently learning **React, TypeScript & Advanced JavaScript**.
+- 🌱 I’m currently learning **React, TypeScript, JavaScript & Rust**.
 - 🐧 **My Distro:** NixOS (The purely functional Linux distribution).
-- 🧠 **Second Brain:** Building my knowledge base in Obsidian.
 
 ### 🛠 Languages and Tools
 ![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos&logoColor=5277C3)
