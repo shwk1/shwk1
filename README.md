@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Shwki
 
-I'm a Developer, currently exploring the depths of **NixOS** and modern Web Development.
+I'm a Developer, currently exploring the depths of **NixOS**.
 
 - 🔭 I’m currently working on my **NixOS Dotfiles**.
 - 🌱 I’m currently learning **React, TypeScript, JavaScript & Rust**.
