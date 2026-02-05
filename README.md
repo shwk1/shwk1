@@ -6,11 +6,13 @@
 
 <hr />
 
-### 🚀 About Me
-* 🔭 **Currently:** Building and breaking things in my **NixOS Dotfiles**.
-* 🌱 **Learning:** Exploring the world of **React, TypeScript, and Rust** at my own pace.
-* ❄️ **My Setup:** Running **NixOS**, because reproducibility is a fun puzzle.
-* 📍 **Location:** Based in **Dalcahue, Chile**.
+<hr />
+
+### 🛰️ Workspace
+* **OS:** NixOS
+* **Learning:** React, TS & Rust
+* **Hardware:** ASUS ROG
+* **Location:** Dalcahue, CL
 
 <hr />
 
