@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Hi,%20I'm%20Shwki&fontSize=70&animation=fadeIn&fontColor=7aa2f7" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=shwk1%40nixos&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=Reproducible%20Systems%20Divergence&descFontSize=25&pattern=circuitBoard" alt="Cyberpunk Banner" />
 </p>
 
 
