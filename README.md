@@ -45,9 +45,3 @@
 </p>
 
 <hr />
-
-### 💻 My Setup (ASUS ROG)
-* **Kernel:** Linux Latest (NixOS Unstable).
-* **Desktop:** KDE Plasma 6 on Wayland.
-* **Terminal:** Kitty with JetBrains Mono Nerd Font.
-* **Hardware:** ASUS ROG Laptop with NVIDIA Prime (Offload Mode).
