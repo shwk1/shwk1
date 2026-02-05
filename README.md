@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=shwk1%40nixos&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=Reproducible%20Systems%20Divergence&descFontSize=25&pattern=circuitBoard" alt="Cyberpunk Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Shwki%20Lab&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=NixOS%20Research%20%26%20Developement&descFontSize=25" alt="Future Gadget Lab Banner" />
 </p>
 
 
