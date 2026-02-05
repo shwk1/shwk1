@@ -1,16 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=250&section=header&text=Pure%20Functions&fontSize=60&animation=fadeIn&fontColor=7aa2f7&desc=Immutable%20Systems%20Architect&descFontSize=20&descAlignY=70" alt="Functional Alchemy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f111a&height=200&section=header&text=Divergence:%201.048596%25&fontSize=50&animation=fadeIn&fontColor=7aa2f7&desc=NixOS%20World%20Line%20|%20Rust%20%26%20React%20Researcher&descFontSize=20&descAlignY=70" alt="Steins Gate Divergence Banner" />
 </p>
 
 
 <hr />
-
 ### About Me
 * 🔭 Currently refining my **NixOS Dotfiles**.
 * 🌱 Deepening my expertise in **React, TypeScript, and Rust**.
 * ❄️ **Distro:** NixOS (The purely functional Linux distribution).
-* 📍 Based in **Dalcahue, Chile**.
-
 <hr />
 
 
