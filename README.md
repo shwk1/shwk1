@@ -19,7 +19,7 @@
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,linux,rust,react,ts,js,git,bash,cpp,neovim,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nix,linux,rust,react,ts,js,git,bash,cpp,neovim,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -27,8 +27,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Shwki's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="180" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight&count_private=true" alt="Shwki's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
 <hr />
