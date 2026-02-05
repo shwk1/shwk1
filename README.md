@@ -8,18 +8,18 @@
 
 <hr />
 
-### 🚀 About Me
+### About Me
 * 🔭 Currently refining my **NixOS Dotfiles**.
 * 🌱 Deepening my expertise in **React, TypeScript, and Rust**.
 * ❄️ **Distro:** NixOS (The purely functional Linux distribution).
-* 📍 Based in **Santiago, Chile**.
+* 📍 Based in **Dalcahue, Chile**.
 
 <hr />
 
 
 <hr />
 
-### 🛠 Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
