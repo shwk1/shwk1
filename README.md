@@ -5,11 +5,12 @@
 <p align="center"> <strong>Currently deep-diving into NixOS and modern tools. Just a developer in training.</strong></p>
 
 <hr />
-###About Me
 
-* 🔭 Currently refining my **NixOS Dotfiles**.
-* 🌱 Deepening my expertise in **React, TypeScript, and Rust**.
-* ❄️ **Distro:** NixOS (The purely functional Linux distribution).
+### 🚀 About Me
+* 🔭 **Currently:** Building and breaking things in my **NixOS Dotfiles**.
+* 🌱 **Learning:** Exploring the world of **React, TypeScript, and Rust** at my own pace.
+* ❄️ **My Setup:** Running **NixOS**, because reproducibility is a fun puzzle.
+* 📍 **Location:** Based in **Dalcahue, Chile**.
 
 <hr />
 
