@@ -14,8 +14,7 @@
 - 🔭 Currently working on my **NixOS Dotfiles**.
 - 🌱 Deepening my knowledge in **React, TypeScript, JavaScript, and Rust**.
 - ❄️ **My Distro:** NixOS (The purely functional Linux distribution).
-- 📍 Based in **Santiago, Chile**.
-
+  
 ---
 
 ### 🛠 Languages and Tools
@@ -34,9 +33,3 @@
 </p>
 
 ---
-
-### 💻 My Setup (ASUS ROG)
-- **Kernel:** Linux Latest (NixOS Unstable).
-- **Desktop:** KDE Plasma 6 on Wayland.
-- **Terminal:** Kitty with JetBrains Mono Nerd Font.
-- **Hardware:** ASUS ROG Laptop with NVIDIA Prime (Offload Mode).
