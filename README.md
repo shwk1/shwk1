@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Shwki%20Lab&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=NixOS%20Research%20%26%20Developement&descFontSize=25" alt="Future Gadget   Lab Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Pure%20Functions&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=Immutable%20Systems%20Architect&descFontSize=25" alt="Functional Alchemy Banner" />
 </p>
 
 
