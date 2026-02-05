@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f111a&height=200&section=header&text=Future%20Gadget%20Lab&fontSize=60&animation=fadeIn&fontColor=7aa2f7&desc=Member%20001&descFontSize=25" alt="Lab Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Hi,%20I'm%20Shwki&fontSize=70&animation=fadeIn&fontColor=7aa2f7" alt="Header" />
 </p>
+
 
 <hr />
 ### About Me
