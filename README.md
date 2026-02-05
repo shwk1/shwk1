@@ -12,7 +12,6 @@
 * **OS:** NixOS
 * **Learning:** React, TS & Rust
 * **Hardware:** ASUS ROG
-* **Location:** Dalcahue, CL
 
 <hr />
 
