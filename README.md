@@ -16,13 +16,15 @@
 
 <hr />
 
+
+<hr />
+
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,linux,rust,react,ts,js,git,bash,cpp,neovim,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,nix,rust,react,ts,js,git,bash,cpp,neovim,vscode&perline=11" alt="My Skills" />
   </a>
 </p>
-
 <hr />
 
 ### 📊 GitHub Stats
