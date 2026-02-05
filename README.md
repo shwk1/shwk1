@@ -16,6 +16,6 @@ I'm a Developer, currently exploring the depths of **NixOS**.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight" alt="Shwki's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
 </p>
