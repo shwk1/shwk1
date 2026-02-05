@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Pure%20Functions&fontSize=70&animation=fadeIn&fontColor=7aa2f7&desc=Immutable%20Systems%20Architect&descFontSize=25" alt="Functional Alchemy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=250&section=header&text=Pure%20Functions&fontSize=60&animation=fadeIn&fontColor=7aa2f7&desc=Immutable%20Systems%20Architect&descFontSize=20&descAlignY=70" alt="Functional Alchemy Banner" />
 </p>
 
 
