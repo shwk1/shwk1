@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f111a&height=250&section=header&text=World%20Line%201.048596&fontSize=55&animation=fadeIn&fontColor=7aa2f7&desc=Divergence%20Meter%20Active&descFontSize=25" alt="World Line Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f111a&height=200&section=header&text=Future%20Gadget%20Lab&fontSize=60&animation=fadeIn&fontColor=7aa2f7&desc=Member%20001&descFontSize=25" alt="Lab Banner" />
 </p>
 
 <hr />
