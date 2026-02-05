@@ -2,12 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f111a&height=200&section=header&text=Hi,%20I'm%20Shwki&fontSize=70&animation=fadeIn&fontColor=7aa2f7" alt="Header" />
 </p>
 
-<p align="center">
-
-<strong>Currently deep-diving into NixOS and modern tools. Just a developer in training.</strong></p>
+<p align="center"> <strong>Currently deep-diving into NixOS and modern tools. Just a developer in training.</strong></p>
 
 <hr />
-### About Me
+###About Me
 
 * 🔭 Currently refining my **NixOS Dotfiles**.
 * 🌱 Deepening my expertise in **React, TypeScript, and Rust**.
