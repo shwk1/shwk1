@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f111a&height=200&section=header&text=Divergence:%201.048596%25&fontSize=50&animation=fadeIn&fontColor=7aa2f7&desc=NixOS%20World%20Line%20|%20Rust%20%26%20React%20Researcher&descFontSize=20&descAlignY=70" alt="Steins Gate Divergence Banner" />
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f111a&height=250&section=header&text=World%20Line%201.048596&fontSize=55&animation=fadeIn&fontColor=7aa2f7&desc=Divergence%20Meter%20Active&descFontSize=25" alt="World Line Banner" />
+</p>
 
 <hr />
 ### About Me
