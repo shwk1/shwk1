@@ -17,6 +17,6 @@ I'm a Developer, currently exploring the depths of **NixOS**.
 
 ### 📊 GitHub Stats
 <div align="center">
-[![Shwki's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)/>
+  [![Shwki's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwk1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwk1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)/>
 </div>
